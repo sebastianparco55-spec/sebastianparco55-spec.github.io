@@ -1,0 +1,13 @@
+body{
+    background-image: url(scouting-futbol-800x450.width-640.jpg);
+        background-position: center;
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    background-color: aliceblue;
+}
+.mundial{
+    width: 900px;
+}
