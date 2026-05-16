@@ -1,0 +1,32 @@
+img{
+    width: 500px;
+}
+body{
+    background-image: url(brazil.jpg); 
+    background-position: center;
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.estad{
+    width: 800px;
+}
+.reglas{
+    width: 700px;
+}
+h2{
+    font-size: xx-large;
+}
+.futbol1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    font-size: xx-large;
+}
+.reglas1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

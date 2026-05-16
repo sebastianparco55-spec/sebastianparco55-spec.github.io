@@ -1,0 +1,25 @@
+body{
+    background-image: url(peruperu.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    background-color: bisque;
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+.liber{
+    width: 1500px;
+}
+h2{
+    background-color: bisque;
+    color: rgb(22, 19, 15);
+    font-size: xx-large;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
