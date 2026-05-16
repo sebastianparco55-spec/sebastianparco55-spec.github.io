@@ -1,0 +1,83 @@
+body{
+    background-image: url(www.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.realma{
+    width: 500px;
+}
+.barca{
+    width: 500px;
+}
+.bayern{
+    width: 500px;
+}
+.ingla{
+    width: 500px;
+}
+.santi{
+ background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.campnou{
+ background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.alemania{
+ background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wenbley{
+ background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.braza{
+    width: 500px;
+}
+.bombb{
+    width: 500px;
+}
+.univer{
+    width: 500px;
+}
+.azteca1{
+    width: 500px;
+}
+.maracana{
+ background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.bombonera{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.monumental{
+ background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.azteca{
+     background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
